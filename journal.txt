@@ -1,8 +1,9 @@
 Author:
 Liam Jacques
+J. Bloggs
 
 Title:
-Measurements of secondary oragnic aerosol
+Model-Measurements intercomparison of secondary oragnic aerosol
 
 Introduction:
 In this paper we present measurements of aerosol particles made over forests in West Africa.
