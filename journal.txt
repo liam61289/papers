@@ -9,3 +9,6 @@ Introduction:
 In this paper we present measurements of aerosol particles made over forests in West Africa.
 Chemical composition and mass concentrations were measured using AMS (Allen et al 2004).
 Smith et al 2007 made measurements in this region, and while they were great, we need more in order to asnwer questions they were unable to address.
+
+Simulations:
+We presenthere simulations of aerosol particle formation, using a chamber model.
