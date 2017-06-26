@@ -1,2 +1,5 @@
 Allen et al 2004
 The seminal paper about the Aerosol Mass Spectrometer.
+
+Smith et al 2007
+Measurements of aerosol over W. Africa.
