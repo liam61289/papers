@@ -1,6 +1,7 @@
 Author:
-Liam Jacques  University of Manchester
 J. Bloggs  University of Somewhere
+Liam Jacques  University of Manchester
+Maria Yankova University of Manchester
 
 Title:
 Model-Measurement intercomparison of biogenic SOA in West Africa
@@ -14,7 +15,7 @@ Chemical composition and mass concentrations were measured using AMS (Allen et a
 Smith et al 2007 made measurements in this region, and while they were great, we need more in order to asnwer questions they were unable to address.
 
 Simulations:
-We present here simulations of aerosol particle formation, using a chamber model.
+We present here simulations of aerosol particle formation, using a chamber model as desrcibed in our previous paper.
 
 Methodology:
 We used various particle counters to measure size distributions.  The instruments were described in Green et al 2010.
