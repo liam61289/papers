@@ -3,3 +3,6 @@ The seminal paper about the Aerosol Mass Spectrometer.
 
 Smith et al 2007
 Measurements of aerosol over W. Africa.
+
+Green et al 2010
+Paper outlining instrumentation.
