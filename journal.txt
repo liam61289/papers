@@ -22,6 +22,7 @@ We used various particle counters to measure size distributions.  The instrument
 Results:
 We found out some stuff that previously was unknown.
 The simulations did a good job of reproducing the measurements.
+The results were particularly interesting
 
 Conclusions:
 We gained valuable insight into the formation processes of SOA from biogenic gases.
