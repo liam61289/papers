@@ -2,7 +2,7 @@ Author:
 Liam Jacques
 
 Title:
-Measurements of secondary oragnic aerosol
+Measurements of biogenic SOA in West Africa
 
 Introduction:
 In this paper we present measurements of aerosol particles made over forests in West Africa.
