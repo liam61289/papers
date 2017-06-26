@@ -5,6 +5,9 @@ J. Bloggs
 Title:
 Model-Measurement intercomparison of biogenic SOA in West Africa
 
+Abstract:
+We present finding of great interest, about how aerosol particles form from biogenic precursors.
+
 Introduction:
 In this paper we present measurements of aerosol particles made over forests in West Africa.
 Chemical composition and mass concentrations were measured using AMS (Allen et al 2004).
