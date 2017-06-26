@@ -1,6 +1,6 @@
 Author:
-Liam Jacques
 J. Bloggs
+Liam Jacques
 
 Title:
 Model-Measurement intercomparison of biogenic SOA in West Africa
