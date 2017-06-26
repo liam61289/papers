@@ -2,4 +2,7 @@ Author:
 Liam Jacques
 
 Title:
-Something something something
+Measurements of secondary oragnic aerosol
+
+Introduction:
+In this paper we present measurements of aerosol particles made over forests in West Africa.
